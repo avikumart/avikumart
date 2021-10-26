@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avikumart
 - 👀 I’m interested in data science technologies and python programming langauge
-- 🌱 I’m currently learning python programming langauge and statistics
+- 🌱 I’m currently pursuing bachelor's in data science and analytics.
 - 💞️ I’m looking to collaborate on data science projects 
 - 📫 How to reach me -  you can reach out to me here- avikumar.talaviya@gmail.com
 
