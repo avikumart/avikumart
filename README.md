@@ -3,8 +3,8 @@
 <p align="center">  Hi there! 👋 </p>
 <p align='center'>
   My name is <b>Avikumar Talaviya</b>.<br/>
-  I am aspire to become a <b>Data Scientist.</b><br>
-  Currently learning and working with <b>Python</b> , <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, and <b>Matplotlib</b>
+  I am practicing <b>Data Scientist.</b><br>
+  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b>
 </p>
 <p>📫 How to reach me:innocent:</p>
 
