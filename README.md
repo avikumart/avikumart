@@ -35,6 +35,7 @@ My Interests :heart_eyes:<br>
 -   Machine learning
 -   Deep learning
 -   Data science
+-   Data analysis
 
 ## Languages and software that I know and/or use:
 
