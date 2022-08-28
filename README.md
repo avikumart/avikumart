@@ -45,6 +45,13 @@ My Interests :heart_eyes:<br>
 
 <img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/>
 
+<img align="left" alt="Keras" width="36px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png"/>
+
+<img align="left" alt="SQL" width="36px" src= "https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
+
+<img align="left" alt="Sklearn" width="36px" src= "https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png"/>
+
+
 <br/>
 <br/>
 <br/>
