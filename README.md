@@ -57,6 +57,11 @@ My Interests :heart_eyes:<br>
 
 <img align="left" alt="Streamlit" width="36px" src= "https://user-images.githubusercontent.com/88608935/187243256-b5b07944-acca-44e4-b1f5-e78e1d0d9376.png"/>
 
+<p align='left'>
+  
+![](https://komarev.com/ghpvc/?username=avikumart)
+  
+</p>
 
 <br/>
 <br/>
