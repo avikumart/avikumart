@@ -66,7 +66,8 @@ My Interests :heart_eyes:<br>
 
 [![Avikumart's github activity graph](https://activity-graph.herokuapp.com/graph?username=avikumart&theme=rogue)](https://github.com/avikumart/github-readme-activity-graph)
 
-## Profile views
+
+## Profile views count
 
 <p align='left'>
   
