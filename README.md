@@ -57,14 +57,14 @@ My Interests :heart_eyes:<br>
 
 <img align="left" alt="Streamlit" width="36px" src= "https://user-images.githubusercontent.com/88608935/187243256-b5b07944-acca-44e4-b1f5-e78e1d0d9376.png"/>
 
+<img align="left" alt="Shap" width="36px" src= "https://shap-lrjball.readthedocs.io/en/latest/_static/shap_logo.png"/>
+
 
 <br/>
 <br/>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avikumart&theme=radical&layout=compact)](https://github.com/avikumart/github-readme-stats)
-
-[![Avikumart's github activity graph](https://activity-graph.herokuapp.com/graph?username=avikumart&theme=rogue)](https://github.com/avikumart/github-readme-activity-graph)
 
 
 ## Profile views count
