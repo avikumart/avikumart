@@ -26,7 +26,7 @@
 
 [![Avikumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avikumart&theme=dark)](https://git.io/streak-stats)
 
-![Avikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=avikumart&show_icons=true&theme=radical)
+[![Avikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=avikumart&show_icons=true&theme=radical)](https://github.com/avikumart/github-readme-stats)
 
 
 My Interests :heart_eyes:<br>
