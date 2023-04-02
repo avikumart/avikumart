@@ -39,7 +39,7 @@ My Interests :heart_eyes:<br>
 
 ## Languages and software that I know and/or use:
 
-<img align = 'left' alt = 'Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
+<img align='left' alt='Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
 
 <img align="left" alt="Git" width="32px" src= "https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>
 
@@ -58,6 +58,22 @@ My Interests :heart_eyes:<br>
 <img align="left" alt="Streamlit" width="36px" src= "https://user-images.githubusercontent.com/88608935/187243256-b5b07944-acca-44e4-b1f5-e78e1d0d9376.png"/>
 
 <img align="left" alt="Shap" width="36px" src= "https://shap-lrjball.readthedocs.io/en/latest/_static/shap_logo.png"/>
+
+<img align="left" alt="mpl" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353042-03b186c2-0a65-4057-9931-d4aa435fa66c.png"/>
+
+<img align="left" alt="seaborn" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353117-655914ed-f91a-4834-9925-eeb0dcc3f5e3.png"/>
+
+<img align="left" alt="statamodels" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353164-720f4b67-763f-4321-b00a-8cf1d03538c7.png"/>
+
+<img align="left" alt="tf" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353288-8ed3cbcf-2c2b-43cc-b5ba-214dc5cda916.png"/>
+
+<img align="left" alt="rapids" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353424-d860de5c-3454-4050-9df6-46c1bd24abcf.png"/>
+
+<img align="left" alt="colab" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353525-a3661c6a-8537-4942-a3b5-3546b51c15d9.png"/>
+
+<img align="left" alt="postgres" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353619-575f133d-2c5c-4ebf-a6d2-8bd59898aedb.png"/>
+
+<img align="left" alt="wandb" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353709-a848b1f2-8125-420c-9bf4-5555dec406ac.png"/>
 
 
 <br/>
