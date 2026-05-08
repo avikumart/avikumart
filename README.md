@@ -1,100 +1,147 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<div align="center">
 
-<p align="center">  Hi there! 👋 </p>
-<p align='center'>
-  My name is <b>Avikumar Talaviya</b>.<br/>
-  I am practicing <b>Data Scientist.</b><br>
-  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b>
-</p>
-<p>📫 How to reach me:innocent:</p>
+```
+ █████╗ ██╗   ██╗██╗██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
+██╔══██╗██║   ██║██║██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+███████║██║   ██║██║█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██╔══██║╚██╗ ██╔╝██║██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║  ██║ ╚████╔╝ ██║██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<p align='center'>
- 
-  <a href="avikumar.talaviya@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>&nbsp
-  
-  <a href="https://www.linkedin.com/in/avi-kumar-talaviya-739153147/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp
-  
-  <a href="https://twitter.com/avikumart_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  
-</p>
+### `AI Engineer · Data Scientist · Deep Learning Practitioner`
 
-[![Avikumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avikumart&theme=dark)](https://git.io/streak-stats)
+*Building production-grade AI systems — from RAG pipelines to agentic workflows*
 
-[![Avikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=avikumart&show_icons=true&theme=radical)](https://github.com/avikumart/github-readme-stats)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-avikumart.github.io-0f172a?style=for-the-badge)](https://avikumart.github.io/)
+[![Medium](https://img.shields.io/badge/Medium-@avikumart__-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@avikumart_)
+[![Kaggle](https://img.shields.io/badge/Kaggle-avikumart-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/avikumart)
+[![Twitter](https://img.shields.io/badge/Twitter-@avikumart__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avikumart_)
 
+</div>
 
-My Interests :heart_eyes:<br>
+---
 
--   Python
--   Machine learning
--   Deep learning
--   Data science
--   Data analysis
+## ⚡ About Me
 
-## Languages and software that I know and/or use:
+```python
+class Avikumar:
+    name       = "Avikumar Talaviya"
+    role       = "AI Engineer & Data Scientist"
+    focus      = ["Agentic AI Systems", "RAG Pipelines", "Medical AI", "LLM Apps","Data pipelines","Data Analytics"]
+    building   = "Production-grade AI backends with FastAPI + LangGraph + Cerebras"
+    open_for   = ["Collaborations", "Open Source", "Freelance AI Projects","Full time roles"]
+```
 
-<img align='left' alt='Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
+I'm a hands-on AI engineer who loves turning cutting-edge research into working systems. From multi-agent RAG architectures to medical image-to-text models, I build end-to-end — backend, inference, and deployment.
 
-<img align="left" alt="Git" width="32px" src= "https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>
+---
 
-<img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/>
+## 🛠️ Tech Stack
 
-<img align="left" alt="Pandas" width="36px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7YWmxNmbuzSB7RyPFlM99xnJMAre6eEj1OhL9EYo&s"/>
+**AI / ML**
 
-<img align="left" alt="NumPy" width="36px" src= "https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<img align="left" alt="Keras" width="36px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png"/>
+**Backend & APIs**
 
-<img align="left" alt="SQL" width="36px" src= "https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<img align="left" alt="Sklearn" width="36px" src= "https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png"/>
+**LLMs & Inference**
 
-<img align="left" alt="Streamlit" width="36px" src= "https://user-images.githubusercontent.com/88608935/187243256-b5b07944-acca-44e4-b1f5-e78e1d0d9376.png"/>
+![Cerebras](https://img.shields.io/badge/Cerebras-FF4500?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-8B5CF6?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=flat-square&logoColor=white)
 
-<img align="left" alt="Shap" width="36px" src= "https://shap-lrjball.readthedocs.io/en/latest/_static/shap_logo.png"/>
+---
 
-<img align="left" alt="mpl" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353042-03b186c2-0a65-4057-9931-d4aa435fa66c.png"/>
+## 🚀 Featured Projects
 
-<img align="left" alt="seaborn" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353117-655914ed-f91a-4834-9925-eeb0dcc3f5e3.png"/>
+### 🐾 [VetProtocol AI](https://github.com/avikumart)
+> *Agentic RAG system for veterinary knowledge*
 
-<img align="left" alt="statamodels" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353164-720f4b67-763f-4321-b00a-8cf1d03538c7.png"/>
+FastAPI · LangGraph · Cerebras · Redis (two-tier) · Sentence-Transformers
 
-<img align="left" alt="tf" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353288-8ed3cbcf-2c2b-43cc-b5ba-214dc5cda916.png"/>
+A production-grade multi-agent RAG backend with ephemeral + persistent memory tiers, local embeddings, and blazing-fast Cerebras LLM inference. Built for real-world veterinary protocol retrieval.
 
-<img align="left" alt="rapids" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353424-d860de5c-3454-4050-9df6-46c1bd24abcf.png"/>
+---
 
-<img align="left" alt="colab" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353525-a3661c6a-8537-4942-a3b5-3546b51c15d9.png"/>
+### 📄 [Smart Resume & Job Match Analyzer](https://github.com/avikumart)
+> *AI-powered career intelligence platform*
 
-<img align="left" alt="postgres" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353619-575f133d-2c5c-4ebf-a6d2-8bd59898aedb.png"/>
+Next.js · FastAPI · Cerebras SDK · Supabase
 
-<img align="left" alt="wandb" width="36px" src= "https://user-images.githubusercontent.com/88608935/229353709-a848b1f2-8125-420c-9bf4-5555dec406ac.png"/>
+Generates match scores, skill gap analysis, and AI-rewritten resumes tailored to job descriptions — full-stack, cloud-ready, and production deployed.
 
+---
 
-<br/>
-<br/>
-<br/>
+### 🫁 [Medical AI — Chest X-Ray Report Generation](https://github.com/avikumart)
+> *BiomedCLIP + Clinical-T5 with Visual Abstractor*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avikumart&theme=radical&layout=compact)](https://github.com/avikumart/github-readme-stats)
+PyTorch · LoRA · Gated Cross-Attention · MIMIC-CXR · AMP · EMA
 
+A hybrid vision-language model architecture for automated radiology report generation. Trained on MIMIC-CXR with sinusoidal 2D positional encodings, LoRA fine-tuning, and ROUGE-L validation monitoring.
 
-## Profile views count
+---
 
-<p align='left'>
-  
-![](https://komarev.com/ghpvc/?username=avikumart)
-  
-</p>
+### 🧠 [LLM & GenAI Transformers Notebooks](https://github.com/avikumart/LLM-GenAI-Transformers-Notebooks)
+> *End-to-end LLM learning hub*
 
+Covers fine-tuning (LoRA, PEFT, PPO, DPO), semantic search, RAG with ChromaDB, Transformer internals, and deployment. A living resource for engineers mastering the full LLM lifecycle.
 
+---
 
-<!---
-avikumart/avikumart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📈 [Time Series Analysis & Forecasting](https://github.com/avikumart/Time-series-analysis-and-forecasting)
+> *Statistical forecasting on real-world datasets*
 
+Statsmodels · S&P 500 Analysis · ARIMA · Prophet
+
+Top-10 S&P 500 stocks analysed and forecasted using classical + modern time-series methods.
+
+---
+
+### 🚦 [Road Traffic Severity Classification](https://github.com/avikumart/Road-Traffic-Severity-Classification-Project)
+> *Multiclass classification on highly imbalanced real-world data*
+
+Scikit-learn · SMOTE · EDA · Addis Ababa Police Dataset
+
+Solved a real-world 3-class imbalance problem using resampling strategies and ensemble classifiers.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=avikumart&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 **Multi-agent orchestration** with LangGraph & custom tool loops
+- ⚡ **Cerebras ultra-fast inference** for real-time AI applications  
+- 🏥 **Medical AI** — vision-language models for clinical use cases
+- 🔍 **Advanced RAG** — hybrid retrieval, re-ranking, and query routing
+
+---
+
+<div align="center">
+
+*"Build fast. Break things. Learn everything."*
+
+![Profile views](https://komarev.com/ghpvc/?username=avikumart&color=6366f1&style=flat-square)
+
+</div>
