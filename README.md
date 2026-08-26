@@ -9,13 +9,14 @@
 ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `AI Engineer · Data Scientist · Deep Learning Practitioner`
+### `Data & AI/ML Engineer · Data Scientist · Applied AI Builder`
 
-*Building production-grade AI systems — from RAG pipelines to agentic workflows*
+*Building reliable data products, production ML pipelines, and grounded AI systems*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-avikumart.github.io-0f172a?style=for-the-badge)](https://avikumart.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-@avikumart__-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@avikumart_)
 [![Kaggle](https://img.shields.io/badge/Kaggle-avikumart-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/avikumart)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avikumar_Talaviya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avikumartalaviya/)
 [![Twitter](https://img.shields.io/badge/Twitter-@avikumart__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avikumart_)
 
 </div>
@@ -27,13 +28,13 @@
 ```python
 class Avikumar:
     name       = "Avikumar Talaviya"
-    role       = "AI Engineer & Data Scientist"
-    focus      = ["Agentic AI Systems", "RAG Pipelines", "Medical AI", "LLM Apps","Data pipelines","Data Analytics"]
-    building   = "Production-grade AI backends with FastAPI + LangGraph + Cerebras"
-    open_for   = ["Collaborations", "Open Source", "Freelance AI Projects","Full time roles"]
+    role       = "Data & AI/ML Engineer"
+    focus      = ["Data Engineering", "MLOps", "RAG", "LLM Applications", "Analytics"]
+    building   = "Local-first document intelligence with hybrid retrieval and cited answers"
+    open_for   = ["Full-time Roles", "Collaborations", "Open Source", "Freelance Projects"]
 ```
 
-I'm a hands-on AI engineer who loves turning cutting-edge research into working systems. From multi-agent RAG architectures to medical image-to-text models, I build end-to-end — backend, inference, and deployment.
+I'm a hands-on data and AI/ML engineer who turns raw data and applied research into dependable products. I work across the lifecycle: data ingestion and modeling, experimentation, retrieval and inference, API development, deployment, and monitoring. My recent work spans local-first RAG, LLM-powered applications, recommender systems, healthcare analytics, and reproducible MLOps pipelines.
 
 ---
 
@@ -48,13 +49,22 @@ I'm a hands-on AI engineer who loves turning cutting-edge research into working 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Backend & APIs**
+**Data Engineering & Analytics**
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=prefect&logoColor=white)
+
+**Backend, MLOps & Cloud**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 **LLMs & Inference**
 
@@ -62,60 +72,63 @@ I'm a hands-on AI engineer who loves turning cutting-edge research into working 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
 ![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-8B5CF6?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=flat-square&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🐾 [VetProtocol AI](https://github.com/avikumart)
-> *Agentic RAG system for veterinary knowledge*
+### 🔎 [Personagraph](https://github.com/avikumart/RAGbot)
+> *Local-first personal document intelligence with grounded, cited answers*
 
-FastAPI · LangGraph · Cerebras · Redis (two-tier) · Sentence-Transformers
+FastAPI · React · PostgreSQL · Qdrant · Hybrid Search · Cerebras · Docker
 
-A production-grade multi-agent RAG backend with ephemeral + persistent memory tiers, local embeddings, and blazing-fast Cerebras LLM inference. Built for real-world veterinary protocol retrieval.
+A privacy-minded RAG application that ingests PDF, DOCX, TXT, and Markdown files, identifies people, and answers questions with expandable citations. It combines BM25-style lexical retrieval with local embeddings, reciprocal rank fusion, durable PostgreSQL storage, and recoverable vector indexing.
 
 ---
 
-### 📄 [Smart Resume & Job Match Analyzer](https://github.com/avikumart)
+### 📄 [Smart Resume & Job Match Analyzer](https://github.com/avikumart/Resume-Analyzer)
 > *AI-powered career intelligence platform*
 
-Next.js · FastAPI · Cerebras SDK · Supabase
+Next.js · TypeScript · FastAPI · Cerebras · Supabase · Vercel
 
-Generates match scores, skill gap analysis, and AI-rewritten resumes tailored to job descriptions — full-stack, cloud-ready, and production deployed.
-
----
-
-### 🫁 [Medical AI — Chest X-Ray Report Generation](https://github.com/avikumart)
-> *BiomedCLIP + Clinical-T5 with Visual Abstractor*
-
-PyTorch · LoRA · Gated Cross-Attention · MIMIC-CXR · AMP · EMA
-
-A hybrid vision-language model architecture for automated radiology report generation. Trained on MIMIC-CXR with sinusoidal 2D positional encodings, LoRA fine-tuning, and ROUGE-L validation monitoring.
+Extracts PDF, DOCX, and TXT resumes to generate job-match scores, skill-gap analysis, and tailored improvements. The production deployment separates the frontend and API, uses server-side database access, and includes CI/CD workflows.
 
 ---
 
-### 🧠 [LLM & GenAI Transformers Notebooks](https://github.com/avikumart/LLM-GenAI-Transformers-Notebooks)
-> *End-to-end LLM learning hub*
+### 🧠 [GPT Built from Scratch](https://github.com/avikumart/neetcode-gpt)
+> *A working GPT assembled from neural-network fundamentals*
 
-Covers fine-tuning (LoRA, PEFT, PPO, DPO), semantic search, RAG with ChromaDB, Transformer internals, and deployment. A living resource for engineers mastering the full LLM lifecycle.
+Python · PyTorch · BPE · Self-Attention · Transformers · KV Cache
 
----
-
-### 📈 [Time Series Analysis & Forecasting](https://github.com/avikumart/Time-series-analysis-and-forecasting)
-> *Statistical forecasting on real-world datasets*
-
-Statsmodels · S&P 500 Analysis · ARIMA · Prophet
-
-Top-10 S&P 500 stocks analysed and forecasted using classical + modern time-series methods.
+Implements the path from gradient descent, backpropagation, and multilayer perceptrons to tokenization, multi-head attention, transformer blocks, training, and text generation—including grouped-query attention and KV caching.
 
 ---
 
-### 🚦 [Road Traffic Severity Classification](https://github.com/avikumart/Road-Traffic-Severity-Classification-Project)
-> *Multiclass classification on highly imbalanced real-world data*
+### 📚 [Hybrid Book Recommendation System](https://github.com/avikumart/Book-recommendation-system)
+> *Collaborative filtering enhanced with generative AI*
 
-Scikit-learn · SMOTE · EDA · Addis Ababa Police Dataset
+FastAPI · Streamlit · SVD · K-Means · LLMs · Docker
 
-Solved a real-world 3-class imbalance problem using resampling strategies and ensemble classifiers.
+Combines item-based collaborative filtering, query expansion, clustering, and LLM-generated descriptions to retrieve and rerank relevant books. Includes an API, interactive UI, feedback flow, and evaluation plan.
+
+---
+
+### 🏥 [Healthcare Data Warehousing & Analytics](https://github.com/avikumart/Data-Warehousing-and-Analytics-Project)
+> *Disease-risk modeling across 100,000 health and lifestyle records*
+
+Python · SQL · Pandas · Scikit-learn · XGBoost · Statistical Analysis
+
+An end-to-end analytics project covering data preparation, class-imbalance handling, cross-validation, model comparison, and clinically relevant evaluation using recall, F1, and ROC-AUC.
+
+---
+
+### ⚙️ [End-to-End MLOps Pipeline](https://github.com/avikumart/MLOps-Project)
+> *Reproducible training and serving for NYC taxi-duration prediction*
+
+Python · Prefect · MLflow · FastAPI · Scikit-learn · Docker
+
+Builds a repeatable workflow for data loading, feature engineering, model training, experiment tracking, artifact management, orchestration, and REST-based inference.
 
 ---
 
@@ -131,10 +144,10 @@ Solved a real-world 3-class imbalance problem using resampling strategies and en
 
 ## 🌱 Currently Exploring
 
-- 🤖 **Multi-agent orchestration** with LangGraph & custom tool loops
-- ⚡ **Cerebras ultra-fast inference** for real-time AI applications  
-- 🏥 **Medical AI** — vision-language models for clinical use cases
-- 🔍 **Advanced RAG** — hybrid retrieval, re-ranking, and query routing
+- 🔍 **Local-first RAG** — hybrid retrieval, rank fusion, citations, and privacy-aware inference
+- 🧱 **Reliable data platforms** — durable storage, reproducible pipelines, and data quality
+- ⚙️ **Production MLOps** — experiment tracking, orchestration, CI/CD, and model serving
+- 🧠 **LLM systems** — transformer internals, efficient inference, evaluation, and observability
 
 ---
 
